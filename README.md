@@ -14,7 +14,7 @@
 To reproduce our results:
 
 1. Extract data.tgz at the project root folder
-2. Go to src/ folder
+2. Go to the src/ folder
 2. Run <code>generate_co.py</code> to generate co-occurrence-dependent labels and weights.
 3. Run <code>pytorch_CreaTDA_cv.py</code> to reproduce cross validation results. Command line arguments are: 
 
