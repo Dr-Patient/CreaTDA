@@ -3,9 +3,9 @@
 ## Requirements
 
 * pytorch (tested on version 1.10.0+cu102)
-
 * numpy (test on version 1.22.0)
 * sklearn (tested on version 1.0.1)
+* scipy (tested on version 1.7.3)
 * matplotlib (tested on version 3.5.1)
 * argparse, rich(optional)
 
